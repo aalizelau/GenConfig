@@ -1,0 +1,8 @@
+# Ignore virtual environments
+venv/
+.env/
+*.env
+
+# Ignore environment variables and sensitive data
+.env
+*.env
